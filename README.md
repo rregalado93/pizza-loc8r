@@ -28,5 +28,8 @@ THEME OBTAINED FROM:
     https://github.com/thomaspark/bootswatch
     
 PUSH TO HEROKU
-    *$ git push heroku master
+    *$ heroku login
+    heroku create
+    git push heroku master
+
     
